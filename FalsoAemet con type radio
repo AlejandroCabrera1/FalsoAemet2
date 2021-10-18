@@ -5,7 +5,7 @@
 </head>
 <body>
 <form method="GET" action="http://www.aemet.es/es/buscador">
-	<p>Seleccione la ciudad la cual quieras saber su tiempo metereólogico:</p>
+	<p>Seleccione una ciudad para saber su clima:</p>
 	<input id="fuenla" type="radio" name="str" value="Fuenlabrada">
 	<label for="fuenla">Fuenlabrada</label>
 	<br>
